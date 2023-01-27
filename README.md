@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://francinapichardo.github.io/](https://francinapichardo.github.io/)
 
-- 📫 How to reach me **francinapichardo95@gmail.com**
+- 📫 How to reach me **francinapichardo12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
