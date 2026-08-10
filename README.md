@@ -3,7 +3,7 @@
 # ✧ FRANCINA PICHARDO ✧
 ### UX Architect & Full-Stack Developer
 
-<a href="https://francinapichardo.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-F48FB1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+<a href="https://francinapichardo.github.io/francina-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-F48FB1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/francinapichardo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-B39EB5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br>
@@ -62,7 +62,7 @@ Information architecture, user journey mapping, and blueprint translation.<br><b
 ## 💫 Current Focus
 
 - 🔭 **Currently Architecting:** Robust MVC backend pipelines with streamlined, beautiful front-end spatial layouts.
-- 💼 **Case Studies:** Breaking down digital friction and rendering full-stack solutions on my [Interactive Portfolio](https://francinapichardo.github.io).
+- 💼 **Case Studies:** Breaking down digital friction and rendering full-stack solutions on my [Interactive Portfolio](https://francinapichardo.github.io/francina-portfolio/).
 
 ---
 
