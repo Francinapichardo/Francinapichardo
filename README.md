@@ -4,7 +4,7 @@
 ### UX Architect & Full-Stack Developer
 
 <a href="https://francinapichardo.github.io/francina-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-F48FB1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/francina-pichardo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-B39EB5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/francinapichardo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-B39EB5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br>
 
@@ -79,6 +79,6 @@ Information architecture, user journey mapping, and blueprint translation.<br><b
 
 ### 🌿 The Code Journey
 
-<img src="https://raw.githubusercontent.com/Francinapichardo/Francinapichardo/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/Francinapichardo/Francinapichardo/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 
 </div>
