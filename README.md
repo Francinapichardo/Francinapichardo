@@ -2,14 +2,12 @@
 
 # ✧ FRANCINA PICHARDO ✧
 ### UX Architect & Full-Stack Developer
+### ─── Bridging Human Insight with Structural Logic ───
 
 <a href="https://francinapichardo.github.io/francina-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-F48FB1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/francinapichardo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-B39EB5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/francina-pichardo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-B39EB5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=24&pause=1000&color=F48FB1&center=true&vCenter=true&width=600&lines=Bridging+Human+Insight+with+Structural+Logic;Designing+High-Performance+Digital+Blueprints;Python+✧+React+✧+Django+✧+UX;Intentional+Design,+Fluid+Experiences" alt="Typing SVG" />
-
 <br>
 
 > *"Good design is invisible. It's the bridge that transforms complex logic into a fluid, human experience."*
@@ -70,15 +68,15 @@ Information architecture, user journey mapping, and blueprint translation.<br><b
 
 <div align="center">
 
-![Francina's Stats](https://github-readme-stats.vercel.app/api?username=Francinapichardo&show_icons=true&bg_color=ffffff&title_color=F48FB1&text_color=555555&icon_color=F48FB1&border_color=f7dada&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Francinapichardo&layout=compact&bg_color=ffffff&title_color=F48FB1&text_color=555555&icon_color=F48FB1&border_color=f7dada&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Francinapichardo&show_icons=true&bg_color=ffffff&title_color=F48FB1&text_color=555555&icon_color=F48FB1&border_color=f7dada&hide_border=false" alt="Francina's Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francinapichardo&layout=compact&bg_color=ffffff&title_color=F48FB1&text_color=555555&icon_color=F48FB1&border_color=f7dada&hide_border=false" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Francinapichardo&background=ffffff&stroke=f7dada&ring=F48FB1&fire=F48FB1&currStreakNum=555555&sideNums=555555&currStreakLabel=F48FB1&sideLabels=F48FB1&dates=555555&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Francinapichardo&background=ffffff&stroke=f7dada&ring=F48FB1&fire=F48FB1&currStreakNum=555555&sideNums=555555&currStreakLabel=F48FB1&sideLabels=F48FB1&dates=555555&hide_border=false" alt="GitHub Streak"/>
 
 ### 🌿 The Code Journey
 
-<img src="https://raw.githubusercontent.com/Francinapichardo/Francinapichardo/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/Francinapichardo/Francinapichardo/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
 </div>
